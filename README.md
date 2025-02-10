@@ -3,7 +3,11 @@ In this project, I am implementing an animal breeding system based on a custom d
 The task consists of the following layers:
 
 Domain Layer: Contains the Model classes used in solving the task.
+
 Infrastructure Layer: Responsible for handling the database interactions.
+
 Application Layer: Contains the business logic of the system.
+
 Presentation Layer: Deals with the user interface and the display of the task.
+
 Test Layer: Ensures the business logic is covered by unit tests.
