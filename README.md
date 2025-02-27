@@ -11,3 +11,5 @@ Application Layer: Contains the business logic of the system.
 Presentation Layer: Deals with the user interface and the display of the task.
 
 Test Layer: Ensures the business logic is covered by unit tests.
+
+In this Project I am using Microsoft Visual Studio 2022 and if you want to try the application you can launch it after opening with the green triangle.
